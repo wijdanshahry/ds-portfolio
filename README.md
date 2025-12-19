@@ -9,7 +9,7 @@ The work emphasizes exploratory data analysis, statistical reasoning, and transl
 - Market and business trend analysis
 - Data-driven insight generation for strategy and planning
 
-## Projects
+## Projects. 
 
 ### Consumer Spending & Retail Demand Analysis
 Analysis of retail sales data to understand how consumer spending patterns evolve over time and what this implies for market demand and business strategy.
