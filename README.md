@@ -16,7 +16,6 @@ Analysis of retail sales data to understand how consumer spending patterns evolv
 
 *Data source: UK Office for National Statistics (ONS)*
 
-(Additional projects will be added.)
 
 ## Tools & Methods
 - Python
